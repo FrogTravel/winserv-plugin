@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  TransportDll.cpp
+     Creating library C:\Users\ekaterina\Lab3\Debug\TransportDll.lib and object C:\Users\ekaterina\Lab3\Debug\TransportDll.exp
+  TransportDll.vcxproj -> C:\Users\ekaterina\Lab3\Debug\TransportDll.dll

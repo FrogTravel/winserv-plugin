@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\ekaterina\lab3\server\server.cpp(318): warning C4715: 'prepare_registry': not all control paths return a value
+  Server.vcxproj -> C:\Users\ekaterina\Lab3\Debug\Server.exe
